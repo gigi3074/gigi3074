@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&height=300&text=Jihye%20Kim!&desc=My%20GitHub%20Profile&animation=fadeIn&fontAlign=75&fontAlignY=40&descAlign=80)
+![header](https://capsule-render.vercel.app/api?type=Waving&height=350&text=Jihye%20Kim!&desc=My%20GitHub%20Profile&animation=fadeIn&fontAlign=75&fontAlignY=40&descAlign=80)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgigi3074%2Fhit-counter&count_bg=%232F99F9&title_bg=%236D6D6D&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![Build Status](https://img.shields.io/github/followers/gigi3074?style=social)
 
 # Hi! 👋 _I'm a junior web-developer_
