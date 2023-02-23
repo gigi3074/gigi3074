@@ -1,6 +1,6 @@
 
 # Hi! I'm Jihye Kim 👋
-## _I'm a junior web-developer_
+_I'm a junior web-developer_
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=300&text=Jihye%20Kim!&desc=My%20GitHub%20Profile&animation=fadeIn&fontAlign=75&fontAlignY=40&descAlign=80)
 
