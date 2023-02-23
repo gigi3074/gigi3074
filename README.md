@@ -7,7 +7,7 @@
 안녕하세요!
 어제보다 오늘 더 성장하는 것을 목표로 공부하고 있는 개발자 김지혜입니다.😉
 
-### Stacks & Tools
+## Stacks & Tools
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
@@ -16,4 +16,8 @@
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=white">
 
 ## stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gigi3074&theme=transparent_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gigi3074)](https://github.com/gigi3074/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gigi3074&theme=graywhite) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gigi3074&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gigi3074&repo=camput&theme=graywhite)](https://github.com/gigi3074/camput)
+
+
