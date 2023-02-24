@@ -18,7 +18,7 @@
 
 
 ## stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gigi3074&hide_title=true&hide=prs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gigi3074&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gigi3074&line_height=18&hide=prs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gigi3074&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
