@@ -21,10 +21,10 @@
 <br><br>
 ## stats 
 <div align="center">
-  <a href="s">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=gigi3074&exclude_repo=dkssud8150.github.io&layout=compact&theme=transparent">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gigi3074&exclude_repo=dkssud8150.github.io&layout=compact&theme=transparent"  />
   </a>
-  <a href="s">
+  <a href="https://github-readme-stats.vercel.app/api?username=gigi3074&theme=transparent&show_icons=true">
     <img src="https://github-readme-stats.vercel.app/api?username=gigi3074&theme=transparent&show_icons=true" height="140" />
   </a>
 </div>
