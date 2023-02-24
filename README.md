@@ -2,10 +2,12 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgigi3074%2Fhit-counter&count_bg=%232F99F9&title_bg=%236D6D6D&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![Build Status](https://img.shields.io/github/followers/gigi3074?style=social)
 
+
 # Hi! 👋 I'm Jihye Kim or Gigi!
 
 안녕하세요!
 어제보다 오늘 더 성장하는 것을 목표로 공부하고 있는 개발자 김지혜입니다.😉
+<br><br><br>
 
 
 ## Stacks & Tools
@@ -16,11 +18,13 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"> 
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=white">
 
-
+<br><br>
 ## stats 
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gigi3074&exclude_repo=dkssud8150.github.io&layout=compact&theme=transparent" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=gigi3074&theme=transparent&show_icons=true" width="42%" height="140" />
-</a>
+<div align="center">
+  <a href="s">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gigi3074&exclude_repo=dkssud8150.github.io&layout=compact&theme=transparent" />
+  </a>
+  <a href="s">
+    <img src="https://github-readme-stats.vercel.app/api?username=gigi3074&theme=transparent&show_icons=true" width="42%" height="140" />
+  </a>
+</div>
