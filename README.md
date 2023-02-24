@@ -18,12 +18,4 @@
 
 
 ## stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gigi3074&height=90%&hide=prs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gigi3074&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<a href="https://github.com/gigi3074/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gigi3074&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/gigi3074/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gigi3074&layout=compact&theme=graywhite" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gigi3074&&&hide=contribs,prs&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gigi3074&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
