@@ -22,9 +22,9 @@
 ## stats 
 <div align="center">
   <a href="s">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gigi3074&exclude_repo=dkssud8150.github.io&layout=compact&theme=transparent" width="50%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gigi3074&exclude_repo=dkssud8150.github.io&layout=compact&theme=transparent"  />
   </a>
   <a href="s">
-    <img src="https://github-readme-stats.vercel.app/api?username=gigi3074&theme=transparent&show_icons=true" width="50%" height="140" />
+    <img src="https://github-readme-stats.vercel.app/api?username=gigi3074&theme=transparent&show_icons=true" height="140" />
   </a>
 </div>
