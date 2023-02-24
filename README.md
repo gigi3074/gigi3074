@@ -7,6 +7,9 @@
 
 안녕하세요!
 어제보다 오늘 더 성장하는 것을 목표로 공부하고 있는 개발자 김지혜입니다.😉
+
+ <a href="https://humble-plough-286.notion.site/683bdacc3c014d80b75ad9003db8fa0d" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=buriando3074@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <br><br><br>
 
 
